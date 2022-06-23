@@ -1,2 +1,2 @@
-# gunnels-module-1-challenge
-Code submission for Module 1 challenge
+# loan_analyzer
+Gathers loan data and determines if a loan should be purchased based on present and future values
